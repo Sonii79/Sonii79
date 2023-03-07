@@ -16,6 +16,7 @@ I also like working on little projects such as my personnal portfolio or little 
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="60" height="60"/>
+  <img src="icons/JavaFX.png" alt="JavaFX" width="140" height="60"/>
 </p>
 
 ### 🔨Tools I know
@@ -31,13 +32,12 @@ I also like working on little projects such as my personnal portfolio or little 
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="60" height="60"/>
   <img src="https://devicons.railway.app/i/mysql.svg" alt="MySQL" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="60" height="60"/>
-  <img src="icons/JavaFX.png" alt="Datagrip" width="60" height="60"/>
 </p>
 
 ### 🎓Currently learning
 <p align="left">
   <img src="https://devicons.railway.app/i/react.svg" alt="React Js" width="60" height="60"/>
-  <img src="icons/React-Native.png" alt="React Native" width="60" height="60"/>
+  <img src="icons/React-Native.png" alt="React-Native" width="90" height="60"/>
   <img src="https://devicons.railway.app/i/vitejs.svg" alt="Vite Js" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/>
   <img src="https://devicons.railway.app/i/firebase.svg" alt="Firebase" width="60" height="60"/>
